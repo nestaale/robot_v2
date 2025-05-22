@@ -1,1 +1,1 @@
-![alt text]((https://raw.githubusercontent.com/nestaale/robot_v2/refs/heads/main/schema.png) "Schamatic")
+![alt text](https://github.com/nestaale/robot_v2/blob/main/schema.png?raw=true)
